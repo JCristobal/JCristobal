@@ -566,6 +566,7 @@ p.tagline {
   position: fixed;
   top: 0;
   left: 50%;
+  height: 10%;
   width: 693px;
   margin-left: -352px;
   background: #222;
@@ -579,7 +580,7 @@ p.tagline {
 
 .current-section p {
   padding: 5px 27px;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -674,7 +675,7 @@ a.download-button span {
   width: auto;
   height: auto;
   padding: 5px 10px;
-  padding-left: 45px;
+  /*padding-left: 45px;*/
   display: inline-block;
   text-indent: 0!important;
   color: #fff;
