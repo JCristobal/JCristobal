@@ -135,6 +135,13 @@ h1 {
   margin: 0.67em 0;
 }
 
+h3{
+  
+  padding-top: 5px;
+  padding-bottom: 30px;
+
+}
+
 /**
  * Address styling not present in IE 8/9.
  */
@@ -451,7 +458,7 @@ h1.title {
   font-size: 60px;
   font-weight: bold;
   font-style: italic;
-  font-family:Georgia, serif;
+  font-family:"Times New Roman", Times, serif;
   text-align: center;
 }
 
@@ -668,6 +675,7 @@ a.download-button {
   background: linear-gradient(to bottom,  #37ADD4,  #1B657E);
   height: auto;
   margin-left: 10px;
+  margin-top: 2%;
 }
 
 a.download-button span {
@@ -715,6 +723,7 @@ footer .owner img {
   margin: 5px;
 }
 
+
 footer .owner p {
   font-family:Georgia, serif;
 }
@@ -723,6 +732,7 @@ footer .owner p a {
   font-size: 16px;
   font-style: italic;
 }
+
 
 /* Markdown */
 .markdown-body h1,
