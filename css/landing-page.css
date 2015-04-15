@@ -176,3 +176,9 @@ p.copyright {
     -webkit-border-radius: 150px; 
     -moz-border-radius: 150px; 
 }
+
+#centrado {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
